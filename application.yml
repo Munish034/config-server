@@ -1,9 +1,8 @@
-
 spring:
- application:
-   name: Config-Dev
-  
-  eureka:
+  application:
+    name: Config-Dev
+
+eureka:
   instance:
     hostname: localhost
     prefer-ip-address: false
